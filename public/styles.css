@@ -349,8 +349,9 @@ body{
 }
 .projects{
   display: flex;
-  justify-content:space-between;
+  justify-content:space-around;
   flex-wrap: wrap;
+  gap : 1rem;
 }
 .project{
     /* padding: 30px 15px; */
